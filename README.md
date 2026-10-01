@@ -4,7 +4,7 @@ A custom SAML 2.0 Identity Asserter mapper that reads an incoming Microsoft Entr
 
 The example claim value `puneeth_group` is a placeholder. Replace it with values from your environment. Do not commit live SAML assertions or your server-local properties file.
 
-**Detailed walkthrough:** [How to Add Azure Groups as Principals to a WebLogic Subject in SAML SSO](https://medium.com/@YOUR_USERNAME/REPLACE_WITH_ARTICLE_URL) — replace this placeholder with the published Medium article URL.
+**Detailed walkthrough:** [How to Add Azure Groups as Principals to a WebLogic Subject in SAML SSO](https://blogbypuneeth.medium.com/how-to-add-azure-groups-as-principals-to-a-weblogic-subject-when-azure-and-wls-are-integrated-with-5ccbd5626fd2)
 
 ## Files
 
